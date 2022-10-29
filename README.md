@@ -17,7 +17,7 @@
 
 <img align="center" src="./preview three.png" alt="preview page" />
 
-<h1 align="center"> 🏠 (https://e-com.krisrahnev.com/) </h1>
+<h1 align="center"> 🏠 (https://easybank-landing-page11.netlify.app/) </h1>
 </br>
 <p align="center">
  🔶🔶🔶 Technologies 🔶🔶🔶
